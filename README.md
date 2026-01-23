@@ -83,7 +83,7 @@ The full derivation is documented in the main file.
 ## Related Work
 
 - **Shape Memory Architecture (SMA)** — Privacy-compliant external memory storage <Repo set to private, DM for access>
-- **SMA-SIB** — Irreversible semantic memory for high-sensitivity domains [Repo Link here] (https://github.com/leenathomas01/SMA-SIB-Irreversible-Semantic-Memory-for-High-Sensitivity-AI-Systems)
+- **SMA-SIB** — Irreversible semantic memory for high-sensitivity domains [Repo Link here](https://github.com/leenathomas01/SMA-SIB-Irreversible-Semantic-Memory-for-High-Sensitivity-AI-Systems)
 
 ---
 
