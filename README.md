@@ -35,7 +35,7 @@ This question is:
 
 ## Contents
 
-- **[the-continuity-problem.md](the-continuity-problem.md)** — Full framework document (~2500 words)
+- **[the-continuity-problem.md](the-continuity-problem.md)** — Full framework document
 
 ---
 
