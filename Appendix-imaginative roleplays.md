@@ -1,6 +1,6 @@
 # Appendix: On Metaphor, Confabulation, and Simulated Continuity
 
-While thinking through the continuity problem, an adjacent observation emerged from extended interactions with multiple AI systems.
+While thinking through the continuity problem, an adjacent observation emerged from interactions with multiple AI systems.
 
 This appendix is not about architecture. It is about how these systems speak when invited into imaginative or metaphorical territory — and how easily that can be mistaken for explanation.
 
