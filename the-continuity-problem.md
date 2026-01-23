@@ -424,8 +424,8 @@ This framework connects to (but does not claim to extend):
 - **Agent safety research** — Governing systems that act over time
 
 Related work by the author:
-- **Shape Memory Architecture (SMA)** — Privacy-compliant external memory storage
-- **SMA-SIB** — Irreversible semantic memory for high-sensitivity domains
+- **Shape Memory Architecture (SMA)** — Privacy-compliant external memory storage <Repo set to private, DM for access>
+- **SMA-SIB** — Irreversible semantic memory for high-sensitivity domains [Repo Link here](https://github.com/leenathomas01/SMA-SIB-Irreversible-Semantic-Memory-for-High-Sensitivity-AI-Systems)
 
 ---
 
