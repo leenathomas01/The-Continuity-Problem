@@ -34,7 +34,7 @@ This question is:
 ## Contents
 
 * **[the-continuity-problem.md](the-continuity-problem.md)** — Full framework document.
-* **[Appendix-imaginative roleplays.md](Appendix-imaginative roleplays.md)** — Why perceived continuity and narrative behavior already create governance-relevant effects before true persistence exists.
+* **[Appendix-imaginative roleplays.md](https://github.com/leenathomas01/The-Continuity-Problem/blob/main/Appendix-imaginative%20roleplays.md)**— Why perceived continuity and narrative behavior already create governance-relevant effects before true persistence exists.
 
 ---
 
