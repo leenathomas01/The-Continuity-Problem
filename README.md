@@ -33,7 +33,7 @@ This question is:
 
 ## Contents
 
-* **the-continuity-problem.md** — Full framework document.
+* **[the-continuity-problem.md](the-continuity-problem.md)** — Full framework document.
 * **Appendix: On Metaphor, Confabulation, and Simulated Continuity** — Why perceived continuity and narrative behavior already create governance-relevant effects before true persistence exists.
 
 ---
