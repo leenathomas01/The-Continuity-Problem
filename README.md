@@ -88,3 +88,19 @@ This is a conceptual framework, not a specification. It claims no solutions. It 
 
 ## License
 Open for discussion, critique, and extension.
+
+---
+
+## Related Work
+
+This repository reframes AI safety from consciousness debates to architectural continuity—how persistent memory and preference formation challenge governance.
+
+**For a complete catalog of related research:**  
+📂 [AI Safety & Systems Architecture Research Index](https://github.com/leenathomas01/research-index)
+
+**Thematically related:**
+- [PARP](https://github.com/leenathomas01/Power-Asymmetry-Restraint-Protocol-PARP) — Governance frameworks under opacity
+- [SMA-SIB](https://github.com/leenathomas01/SMA-SIB-Irreversible-Semantic-Memory) — Memory architecture with structural safeguards
+- [Embodied Agent Governance](https://github.com/leenathomas01/embodied-agent-governance) — Governance patterns for autonomous agents
+
+---
