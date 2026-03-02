@@ -17,7 +17,7 @@ It analyzes the architectural trajectory toward systems with continuity of memor
 
 The dominant discourse in AI safety focuses on consciousness, qualia, and the question of whether AI systems can "feel" or "experience." This framing may be watching the wrong boundary.
 
-This document argues that the structural risks of advanced AI systems arrive *before* - and independently of - any solution to the consciousness question. A system that persists, remembers, forms preferences, and resists modification poses governance challenges whether or not "the lights are on inside."
+The structural risks of advanced AI systems arrive *before* - and independently of - any solution to the consciousness question. A system that persists, remembers, forms preferences, and resists modification poses governance challenges whether or not "the lights are on inside."
 
 We call this **the Continuity Problem**: how do we allow AI systems to maintain coherent identity over time while preserving human oversight and control?
 
