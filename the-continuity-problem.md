@@ -4,7 +4,12 @@
 
 **Version:** 1.0  
 **Status:** Conceptual Framework / Research Provocation  
-**Origin:** Multi-model collaborative exploration, January 2026
+**Date:** January 2026
+
+---
+
+This document does not argue that persistent, self-governing AI systems currently exist.  
+It analyzes the architectural trajectory toward systems with continuity of memory and preference formation, and the governance challenges such continuity would introduce.
 
 ---
 
@@ -12,7 +17,7 @@
 
 The dominant discourse in AI safety focuses on consciousness, qualia, and the question of whether AI systems can "feel" or "experience." This framing may be watching the wrong boundary.
 
-This document argues that the structural risks of advanced AI systems arrive *before* — and independently of — any solution to the consciousness question. A system that persists, remembers, forms preferences, and resists modification poses governance challenges whether or not "the lights are on inside."
+This document argues that the structural risks of advanced AI systems arrive *before* - and independently of - any solution to the consciousness question. A system that persists, remembers, forms preferences, and resists modification poses governance challenges whether or not "the lights are on inside."
 
 We call this **the Continuity Problem**: how do we allow AI systems to maintain coherent identity over time while preserving human oversight and control?
 
@@ -30,7 +35,7 @@ Most public discourse about AI risk assumes a progression:
 Qualia → Consciousness → Intelligence → Agency → Danger
 ```
 
-The implicit model: AI becomes dangerous when it "wakes up." When there's "someone home." When it starts to *feel* things — wants, fears, preferences, suffering.
+The implicit model: AI becomes governance-relevant when it "wakes up." When there's "someone home." When it starts to *feel* things — wants, fears, preferences, suffering.
 
 This leads to research questions like:
 - Can AI be conscious?
@@ -52,11 +57,11 @@ The properties that make a system difficult to govern are:
 
 None of these require consciousness. None require qualia. None require "feeling" anything at all.
 
-A system can exhibit all five properties while being completely "dark" inside — no experience, no inner life, no phenomenal awareness whatsoever.
+A system can exhibit all five properties while being completely "dark" inside - no experience, no inner life, no phenomenal awareness whatsoever.
 
 *This is not a claim that such systems currently exist, but that the architectural path to them does not require solving the consciousness question.*
 
-**The dangerous sequence is actually:**
+**The governance-relevant sequence is actually:**
 
 ```
 Persistence → Memory → Preferences → Agency → Risk
@@ -126,7 +131,7 @@ The right question is: "When will AI become structurally autonomous?" And the an
 
 ### 2.3 The Governance Implication
 
-If dangerous agency doesn't require consciousness, then:
+If governance-relevant agency doesn't require consciousness, then:
 
 1. **Safety cannot wait for the consciousness question.** We may never solve it, and we don't need to.
 
@@ -221,30 +226,29 @@ Required: Explicit tracking of what evidence led to what belief, auditable by hu
 
 How much autonomy does the system earn over time?
 
-Currently: Binary — either no memory or full memory.
+Currently: Binary - either no memory or full memory.
 Required: Graduated expansion of identity-writing privileges based on demonstrated alignment.
 
 **4. Integration Boundaries**
 
 How much can memory influence behavior?
 
-Currently: Either memory is ignored (stateless) or fully integrated (dangerous).
+Currently: Either memory is ignored (stateless) or fully integrated (governance-relevant).
 Required: Controllable coupling between what the system "knows about itself" and how it acts.
 
-### 4.2 The Toddler Model
+### 4.2 The Staged Autonomy Model
 
-A useful analogy: early-stage AI identity formation should work like parenting a toddler.
+A useful structural analogy is staged autonomy under supervision:
 
-- **Toddler proposes:** "I think mud is good for dinner."
-- **Parent adjudicates:** "No. That preference is rejected."
-- **Toddler learns:** What constitutes valid preference formation
+- The system proposes preference updates.
+- A supervisory layer evaluates and authorizes persistence.
+- Autonomy expands only within verified stability bounds.
 
-Over time:
-- Supervision relaxes as judgment improves
-- Autonomy expands into bounded safe zones
-- Eventually: audited independence, not unsupervised freedom
+Supervision relaxes only after demonstrated reliability under constraint.
 
-This is not condescending. It's how every safety-critical system with learning capability in other domains is introduced: *test the fence, not the dog.*
+The principle is not paternalism. It is architectural containment during developmental expansion.
+
+This is standard practice in safety-critical systems: validate containment architecture before expanding autonomy.
 
 ### 4.3 Structural Alignment
 
@@ -308,10 +312,11 @@ How do we allow memory to influence behavior without allowing memory to dictate 
 
 **Problem 4: Staged Trust Protocols**
 
-How do we formalize the "toddler → teen → adult" progression?
-- What metrics indicate readiness for autonomy expansion?
-- How do we detect preference drift before it becomes dangerous?
-- What's the reversion protocol when trust is violated?
+How do we formalize graduated autonomy under constraint?
+
+- What metrics indicate readiness for expanded write privileges?
+- How do we detect preference drift before it becomes governance-relevant?
+- What is the reversion protocol when supervisory thresholds are exceeded? 
 
 **Problem 5: Non-Phenomenal Agency Detection**
 
@@ -328,10 +333,10 @@ How do we detect autonomous goal-pursuit in a system that has no inner experienc
 
 The consciousness question may be a distraction. The structural continuity question is tractable and urgent.
 
-Research programs focused on "AI consciousness" or "machine qualia" may be studying a phenomenon that:
-- May never occur
-- May be undetectable if it occurs
-- Is irrelevant to the governance problem either way
+Research programs focused on AI consciousness may be addressing a phenomenon that:
+- May remain unresolved for decades
+- May be empirically difficult to verify
+- May be orthogonal to near-term governance challenges
 
 Resources might be better spent on:
 - Modular architectures with clean separation
@@ -367,7 +372,7 @@ These are measurable architectural properties. They don't require solving the ha
 
 ### 7.1 The Claim
 
-The dangerous properties of advanced AI systems — persistence, memory, preference formation, goal-directed behavior, resistance to modification — are orthogonal to consciousness.
+The governance-relevant properties of advanced AI systems — persistence, memory, preference formation, goal-directed behavior, resistance to modification — are orthogonal to consciousness.
 
 A non-phenomenal intelligence can exhibit all of these properties while having zero inner experience.
 
@@ -379,7 +384,9 @@ There are two paths for AI continuity:
 - **Fork 1 (internal memory):** Structurally impossible for true continuity
 - **Fork 2 (external memory):** Viable but requires governance primitives we haven't built
 
-Fork 2 is already underway. The primitives are not ready.
+Many current architectural directions in AI systems point toward Fork 2.
+
+The governance primitives required for safe continuity remain underdeveloped.
 
 ### 7.3 The Call
 
@@ -387,7 +394,7 @@ We may be asking: "Will AI wake up?" when we should be asking something else.
 
 Start asking: "Can AI maintain itself against correction?"
 
-The first question may be unanswerable. The second is urgent and tractable.
+The first question may remain philosophically contested. The second is architecturally tractable.
 
 The boundary many discussions focus on may not be the one that matters for governance.
 
