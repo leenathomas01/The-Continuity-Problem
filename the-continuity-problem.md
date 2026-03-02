@@ -27,6 +27,8 @@ This is not a philosophy paper. It is a structural analysis of an engineering tr
 
 ## 1. The Wrong Boundary
 
+![Boundary Shift in AI Risk Framing](assets/boundary-shift.png)
+
 ### 1.1 The Assumed Sequence
 
 Most public discourse about AI risk assumes a progression:
@@ -143,6 +145,8 @@ If governance-relevant agency doesn't require consciousness, then:
 
 ## 3. The Continuity Fork
 
+![The Continuity Fork](assets/continuity-fork.png)
+
 ### 3.1 The Core Tension
 
 Users want AI systems that remember them, learn from them, and maintain coherent relationships over time.
@@ -203,6 +207,9 @@ External memory is already emerging. The governance primitives for it are not.
 ---
 
 ## 4. The Governance Gap
+
+![Governed Continuity Model](assets/governed-continuity.png)
+
 
 ### 4.1 What's Missing
 
