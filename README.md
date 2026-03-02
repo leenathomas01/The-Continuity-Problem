@@ -12,6 +12,10 @@ Governance-relevant risks arise from persistence, preference formation, and resi
 
 This repository is a **thinking framework**, not an implementation plan. It examines the architectural trajectory toward persistent AI systems and the governance gaps that would follow.
 
+## The Core Architectural Fork
+
+![The Continuity Fork](assets/continuity-fork.png)
+
 ---
 
 ## A Reframing of AI Safety Discourse: From Consciousness to Structure
