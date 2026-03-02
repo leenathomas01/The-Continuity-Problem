@@ -36,7 +36,7 @@ This may be watching the wrong boundary.
 
 ### The Right Question
 
-> "Can AI maintain continuity of identity and preference across updates — and resist external correction?"
+> "Can AI maintain continuity of identity and preference across updates - and resist external correction?"
 
 This question is:
 
@@ -78,6 +78,6 @@ This repository reframes AI safety from consciousness debates to architectural c
 **Thematically related:**
 - [PARP](https://github.com/leenathomas01/Power-Asymmetry-Restraint-Protocol-PARP) — Governance frameworks under opacity
 - [SMA-SIB](https://github.com/leenathomas01/SMA-SIB-Irreversible-Semantic-Memory) — Memory architecture with structural safeguards
-- [Embodied Agent Governance](https://github.com/leenathomas01/embodied-agent-governance) — Governance patterns for autonomous agents
+- [Embodied Agent Governance](https://github.com/leenathomas01/embodied-agent-governance) — Governance patterns for autonomous agents operating in imperfect environments.
 
 ---
